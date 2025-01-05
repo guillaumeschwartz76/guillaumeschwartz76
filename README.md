@@ -1,1 +1,1 @@
-### About me:writing_hand:
+### About me :writing_hand:
