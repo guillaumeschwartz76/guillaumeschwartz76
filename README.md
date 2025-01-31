@@ -1,5 +1,5 @@
 ### About me :writing_hand:
-
+ 
 Passionné de science, j'ai d'abord entrepris deux ans d'études de médecine à Rouen, dans le but de devenir médecin.
 Devant me réorienter, j'ai essayé de trouver ma voie et je suis rentré par équivalence en deuxième année d'études de biologie au Havre.
 Ces études se sont révélées intéresantes mais sans que je puisse trouver un objectif professionnel. J'ai donc réalisé un DUT GEA(gestion des entreprises et des administations) et je suis devenu comptable.
@@ -9,7 +9,7 @@ Je suis content d'avoir la chance de pouvoir faire cette reconversion profession
 
 Je cherche actuellement une alternance dans le cadre d'un titre RNCP6 en tant que développeur applicatif!
 
-### Skills :computer:
+### Skills           :computer:
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,py,django,docker,git,github,linux,powershell,debian,ubuntu,vim,vscode,windows,discord&perline=8" />
