@@ -9,6 +9,7 @@ Je suis content d'avoir la chance de pouvoir faire cette reconversion profession
 
 Je cherche actuellement une alternance dans le cadre d'un titre RNCP6 en tant que développeur applicatif.
 
+### Skills :computer:
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,py,django,docker,git,github,linux,powershell,debian,ubuntu,vim,vscode,windows,discord&perline=8" />
